@@ -1,8 +1,8 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://camo.githubusercontent.com/2619e5a9ead82dd13149cb33aeae4dd13e9969607c61eac3ac78fa34d6f5a609/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar854881&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar854881" /> </p>
 
